@@ -1,0 +1,7 @@
+/home/dpaguill/Documents/mark_II/dipole_modelling/
+11-22
+True
+True
+True
+/home/dpaguill/Documents/mark_II/dipole_modelling/parts/11-22_loop outer corrected susceptibilities/
+/home/dpaguill/Documents/mark_II/dipole_modelling/output_files/11-22/loop outer corrected susceptibilities/
